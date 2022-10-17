@@ -1,11 +1,12 @@
-https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/ - link1
-https://www.udemy.com/course/cybersecurity-from-beginner-to-expert/ - link2
-https://www.coursera.org/specializations/intro-cyber-security - link3
-https://www.udemy.com/course/1m-cyber-security-awareness/ - link4
-https://www.udemy.com/course/real-world-ethical-hacking/ - link5
-https://www.udemy.com/course/the-complete-cyber-security-course-end-point-protection/ -link2
-https://www.coursera.org/learn/cybersecurity-for-everyone -link3
-https://www.udemy.com/course/cybersecurity-from-beginner-to-expert/ - link4
-https://www.udemy.com/course/the-absolute-beginners-guide-to-information-cyber-security/ -link5
-https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/
+# Links
+* Link 1: https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/
+* Link 2: https://www.udemy.com/course/cybersecurity-from-beginner-to-expert/
+* Link 3: https://www.coursera.org/specializations/intro-cyber-security
+* Link 4: https://www.udemy.com/course/1m-cyber-security-awareness/
+* Link 5: https://www.udemy.com/course/real-world-ethical-hacking/
+* Link 6: https://www.udemy.com/course/the-complete-cyber-security-course-end-point-protection/
+* Link 7: https://www.coursera.org/learn/cybersecurity-for-everyone
+* Link 8: https://www.udemy.com/course/cybersecurity-from-beginner-to-expert/
+* Link 9: https://www.udemy.com/course/the-absolute-beginners-guide-to-information-cyber-security/
+* Link 10: https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/
 
