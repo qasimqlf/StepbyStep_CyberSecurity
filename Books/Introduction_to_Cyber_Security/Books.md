@@ -5,3 +5,6 @@ link4 https://www.pdfdrive.com/cyber-security-essentials-e13240053.html
 link5 https://www.pdfdrive.com/cyber-security-analytics-technology-and-automation-e27098885.html
 link6 https://www.pdfdrive.com/data-analysis-for-network-cyber-security-e18000039.html
 link7 https://repo.zenk-security.com/Magazine%20E-book/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf 
+link8 https://www.1gcyber.com/files/Introduction%20to%20Cybersecurity.pdf
+link9 https://ftp.utcluj.ro/pub/users/dadarlat/retele_an4/curs-2020/IntroCyberSec_2018.pdf
+
